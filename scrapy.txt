@@ -1,3 +1,8 @@
+Scrapy buscador de enlaces.
+
 Scrapy.
 Busca enlaces.
+Scraper.
 Surfea la web!
+
+Spíder Web
