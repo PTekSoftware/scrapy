@@ -1,2 +1,3 @@
 # Scrapy
-Scraper Web
+
+Scraper Web probando desde local.
